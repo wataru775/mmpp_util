@@ -7,10 +7,11 @@ namespace org\mmpp\util\exception\validation;
 use org\mmpp\util\exception\Exception;
 
 /**
- * 数値入力チェック用発生例外
- * Class NumberValidationException
+ * 電話番号入力チェック例外
+ * Class PhoneNumberException
  * @package org\mmpp\util\exception\validation
  */
-class NumberValidationException extends ValidationException
+class PhoneNumberException extends ValidationException
 {
+
 }
